@@ -63,7 +63,7 @@ get_header();  ?>
 						<h4>Holiday e-card</h4>
 						<h5><span> JavaScript </span>  <span> jQuery </span>  <span> HTML5 </span> <span> CSS3 </span></h5>
 						<p>This "Holiday Spirit Meter" was a fun project built as a tongue-in-cheek holiday e-card for clients. Having a get together with family? Let us calculate the necessary holiday spirits!</p>
-						 <a href="http://www.coffeeandcode.ca/holidayspirits" target="_blank" class="ani">Visit live site</a>
+						<a href="http://www.coffeeandcode.ca/holidayspirits" target="_blank" class="ani">Visit live site</a>
 					</div><!-- slideText -->
 				</div><!--slide-->
 			</div><!--gallery-->
